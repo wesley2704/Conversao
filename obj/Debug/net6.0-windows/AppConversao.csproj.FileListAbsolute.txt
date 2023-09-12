@@ -1,0 +1,17 @@
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\bin\Debug\net6.0-windows\AppConversao.exe
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\bin\Debug\net6.0-windows\AppConversao.deps.json
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\bin\Debug\net6.0-windows\AppConversao.runtimeconfig.json
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\bin\Debug\net6.0-windows\AppConversao.dll
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\bin\Debug\net6.0-windows\AppConversao.pdb
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\obj\Debug\net6.0-windows\AppConversao.csproj.AssemblyReference.cache
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\obj\Debug\net6.0-windows\AppConversao.Form1.resources
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\obj\Debug\net6.0-windows\AppConversao.csproj.GenerateResource.cache
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\obj\Debug\net6.0-windows\AppConversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\obj\Debug\net6.0-windows\AppConversao.AssemblyInfoInputs.cache
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\obj\Debug\net6.0-windows\AppConversao.AssemblyInfo.cs
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\obj\Debug\net6.0-windows\AppConversao.csproj.CoreCompileInputs.cache
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\obj\Debug\net6.0-windows\AppConversao.dll
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\obj\Debug\net6.0-windows\refint\AppConversao.dll
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\obj\Debug\net6.0-windows\AppConversao.pdb
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\obj\Debug\net6.0-windows\AppConversao.genruntimeconfig.cache
+C:\Users\125274\Desktop\ConversaoDeArquivo\AppConversao\obj\Debug\net6.0-windows\ref\AppConversao.dll
